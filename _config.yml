@@ -1,0 +1,7 @@
+title: "Your Name"
+description: "A short site description"
+baseurl: ""        # no subpath
+url: "https://autumn-reed.com"   # your domain or GitHub Pages URL
+
+# Disable default theme so we can use our own layouts
+theme: null
