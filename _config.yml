@@ -1,7 +1,7 @@
-title: "Your Name"
-description: "A short site description"
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
 baseurl: ""        # no subpath
 url: "https://autumn-reed.com"   # your domain or GitHub Pages URL
 
-# Disable default theme so we can use our own layouts
-theme: null
+
