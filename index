@@ -1,0 +1,7 @@
+---
+layout: default      # or “post” if you have a _layouts/post.html
+title:  Home         # the page’s <title> and header
+---
+# Welcome to my site
+
+This is my **first** GitHub Pages page!
